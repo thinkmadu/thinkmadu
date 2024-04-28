@@ -3,7 +3,7 @@
 ### Aluna do Curso de Ciência da Computação pela Universidade Estadual da Paraíba. 
 
 <div aling="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thinkmadu&show_icons=true&theme=highcontrast"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thinkmadu&show_icons=true&theme=dark"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkmadu&hide_progress=true" />
 </div>
 
