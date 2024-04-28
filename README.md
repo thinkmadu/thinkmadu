@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkmadu&hide_progress=true" />
 </div>
 
-## Minhas Skills
-
 ### Linguagens
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
