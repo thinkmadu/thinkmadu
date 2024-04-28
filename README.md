@@ -1,6 +1,6 @@
 ## Maria Eduarda da Silva 
 
-### Aluna do Curso de Ciência da Computação pela Universidade Estadual da Paraíba. 
+### Aluna do curso de Ciência da Computação pela Universidade Estadual da Paraíba (UEPB). 
 
 <div aling="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thinkmadu&show_icons=true&theme=radical"/>
