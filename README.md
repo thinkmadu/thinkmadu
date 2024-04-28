@@ -4,7 +4,7 @@
 
 <div aling="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thinkmadu&show_icons=true&theme=radical"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkmadu&hide_progress=false&layout=donutchart" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkmadu&hide_progress=false&layout=donutChart" />
 </div>
 
 ### Linguagens
