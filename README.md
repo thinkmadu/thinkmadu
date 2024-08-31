@@ -11,11 +11,14 @@
 </div>
 
 ## 👨🏻‍💻&nbsp;About Me
-<img alt="animation.gif" src="https://github.com/thinkmadu/readmeTEST/blob/main/animation.png" align="right" width="300"/>
+<img alt="animation.gif" src="https://github.com/thinkmadu/readmeTEST/blob/main/animation.png" align="right" width="200"/>
 
 🤓&nbsp;My name is Maria Eduarda!\
-🔭&nbsp;Performing academic research in the field of AI at NUTES.\
-🎓&nbsp;Computer Science student at Universidade Estadual da Paraíba (UEPB).
+🎓&nbsp;Computer Science student at Universidade Estadual da Paraíba (UEPB).\
+🔭&nbsp;Carrying out academic research at the Núcleo de Tecnologias Estratégicas em Saúde (NUTES).\
+🌱&nbsp;I'm on track for learning more about Artificial Intelligence.\
+✍️&nbsp;In my free time, I pursue Cyber Security, Front-End, and Back-End.\
+💡&nbsp;I love learning new things.
 
 ## 📊&nbsp;My Stats
 <div align="left">
@@ -26,16 +29,25 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thinkmadu&theme=gotham&utcOffset=8" width=350  alt="stats graph"/>
 </div>
 
-</div>
+## 📕&nbsp;Pinned Repositories
+<p align="center">
+	<a href="https://github.com/thinkmadu/2048-game">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thinkmadu&repo=2048-game&hide_border=true&theme=dark&show_icons=true" width="360"/>
+	</a>
+	<a href="https://github.com/thinkmadu/calculadora">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thinkmadu&repo=calculadora&hide_border=true&theme=dark&show_icons=true" width="360"/>
+	</a>
+	<a href="https://github.com/thinkmadu/portifolio_pessoal">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thinkmadu&repo=portifolio_pessoal&hide_border=true&theme=dark&show_icons=true" width="360"/>
+	</a>
+</p>
 
-### 💻&nbsp;Languages
+### 🛠&nbsp;My Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-### 🛠&nbsp;Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
