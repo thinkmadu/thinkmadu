@@ -11,7 +11,7 @@
 </div>
 
 ## 👨🏻‍💻&nbsp;About Me
-<img alt="animation.gif" src="https://github.com/thinkmadu/readmeTEST/blob/main/animation.png" align="right" width="200"/>
+<img alt="animation.gif" src="https://github.com/thinkmadu/readmeTEST/blob/main/animation.png" align="right" width="300"/>
 
 🤓&nbsp;My name is Maria Eduarda!\
 🎓&nbsp;Computer Science student at Universidade Estadual da Paraíba (UEPB).\
