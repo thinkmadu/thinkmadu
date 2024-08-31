@@ -6,7 +6,7 @@
   
   ![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
   ![profile count](https://komarev.com/ghpvc/?username=thinkmadu&color=red)&nbsp;
-  [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
+  [![GitHub thinkmadu](https://img.shields.io/github/followers/thinkmadu?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
   ![build: passing](https://img.shields.io/badge/build-passing-success)
 </div>
 
