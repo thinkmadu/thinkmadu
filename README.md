@@ -13,7 +13,7 @@
 
 🎓&nbsp;Computer Science student at Universidade Estadual da Paraíba (UEPB).\
 🔭&nbsp;Carrying out academic research at the Núcleo de Tecnologias Estratégicas em Saúde (NUTES).\
-✍️&nbsp;Full-Stack developer and learning about IA.\
+✍️&nbsp;Full-Stack developer and learning about IA.
 
 ### 🛠&nbsp;My Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
