@@ -11,12 +11,9 @@
 ## 👨🏻‍💻&nbsp;About Me
 <img alt="animation.gif" src="https://github.com/thinkmadu/readmeTEST/blob/main/animation.png" align="right" width="300"/>
 
-🤓&nbsp;My name is Maria Eduarda!\
 🎓&nbsp;Computer Science student at Universidade Estadual da Paraíba (UEPB).\
 🔭&nbsp;Carrying out academic research at the Núcleo de Tecnologias Estratégicas em Saúde (NUTES).\
-🌱&nbsp;I'm on track for learning more about Artificial Intelligence.\
-✍️&nbsp;In my free time, I pursue Cyber Security, Front-End, and Back-End.\
-💡&nbsp;I love learning new things.
+✍️&nbsp;Full-Stack developer and learning about IA\
 
 ### 🛠&nbsp;My Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
